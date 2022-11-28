@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #a8dadc;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+     }
+    
+.darker{
+    font-weight: bold;
+}
+.container{
+    height: auto;
+    margin: auto;
+    width: 60%;
+}
+header>h1{
+    background-color: #f1faee;
+}
